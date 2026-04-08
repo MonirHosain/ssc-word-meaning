@@ -1,0 +1,1 @@
+# ssc-word-meaning
